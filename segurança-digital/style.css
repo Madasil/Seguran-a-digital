@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
 
 :root{
-    --branco: rgb(255, 255, 255);
+    --branco: hsl(0, 25%, 3%);
     --cor-de-fundo: #7e478f;
     --fundo-senha: #35385f;
     --fundo-texto: #50044c;
@@ -128,14 +128,14 @@ label{
 }
 .fraca{
     width: 25%;
-    background-color: #E71B32; 
+    background-color: #6a3992; 
 }
 .media{
-    background-color: #FAF408;
+    background-color: #4c1f66;
     width: 50%;
 }
 .forte{
-    background-color: #00FF85;
+    background-color: #6f34ce;
     width: 100%;
 }
 
